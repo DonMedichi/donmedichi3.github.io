@@ -1,2 +1,2 @@
-# workshop
+# workshop.github.io
 Демо штука
